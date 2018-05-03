@@ -1,0 +1,11 @@
+C:\Users\DIANIZZ\source\repos\tabbedPage\tabbedPage\tabbedPage\bin\Debug\netstandard2.0\tabbedPage.deps.json
+C:\Users\DIANIZZ\source\repos\tabbedPage\tabbedPage\tabbedPage\bin\Debug\netstandard2.0\tabbedPage.dll
+C:\Users\DIANIZZ\source\repos\tabbedPage\tabbedPage\tabbedPage\bin\Debug\netstandard2.0\tabbedPage.pdb
+C:\Users\DIANIZZ\source\repos\tabbedPage\tabbedPage\tabbedPage\obj\Debug\netstandard2.0\tabbedPage.csprojResolveAssemblyReference.cache
+C:\Users\DIANIZZ\source\repos\tabbedPage\tabbedPage\tabbedPage\obj\Debug\netstandard2.0\tabbedPage.csproj.CoreCompileInputs.cache
+C:\Users\DIANIZZ\source\repos\tabbedPage\tabbedPage\tabbedPage\obj\Debug\netstandard2.0\tabbedPage.App.xaml.g.cs
+C:\Users\DIANIZZ\source\repos\tabbedPage\tabbedPage\tabbedPage\obj\Debug\netstandard2.0\tabbedPage.MainPage.xaml.g.cs
+C:\Users\DIANIZZ\source\repos\tabbedPage\tabbedPage\tabbedPage\obj\Debug\netstandard2.0\tabbedPage.AssemblyInfoInputs.cache
+C:\Users\DIANIZZ\source\repos\tabbedPage\tabbedPage\tabbedPage\obj\Debug\netstandard2.0\tabbedPage.AssemblyInfo.cs
+C:\Users\DIANIZZ\source\repos\tabbedPage\tabbedPage\tabbedPage\obj\Debug\netstandard2.0\tabbedPage.dll
+C:\Users\DIANIZZ\source\repos\tabbedPage\tabbedPage\tabbedPage\obj\Debug\netstandard2.0\tabbedPage.pdb
